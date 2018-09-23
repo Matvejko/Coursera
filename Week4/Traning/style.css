@@ -1,0 +1,20 @@
+#fonts {
+    font-family: 'Roboto Slab', serif;
+}
+#zagolovok {
+    font-weight:bold;
+    font-size:40px;
+    letter-spacing: 1.5px;
+}
+#podzaagolovok {
+    font-family: 'EB Garamond', serif;
+    font-style: italic;
+    font-size:20px;
+    }
+#podzaagolovok span {
+    font-variant: small-caps;
+    font-style: normal;
+}
+#paragraph {
+    line-height: 2;
+}
